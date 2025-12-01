@@ -30,11 +30,10 @@ This project blends **computer vision**, **facial feature detection**, and **ser
 
 ---
 
-## 🌐 Connect with Us
-Follow and connect with the team on LinkedIn:  
-- [Yasir]()  
-- [Hasan]()  
+## 👨‍💻 Contributors:
+Special thanks to : 
 
+- **Yasser Al-Sirafi** [LinkedIn](https://www.linkedin.com/in/yasser-al-sirafi-401437392/)
 
 ---
 
@@ -47,6 +46,7 @@ Follow and connect with the team on LinkedIn:
 
 ## 📸 Demo
 
+**Coming soon!**
 
 ---
 
