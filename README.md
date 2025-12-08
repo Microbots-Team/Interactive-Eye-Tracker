@@ -1,15 +1,24 @@
 # 👀 Interactive Eye Tracker
 
-The **Interactive Eye Tracker** is a model that simulates **human eye movement**.  
-The eyes move in response to the **visitor’s face direction**, creating a realistic effect that makes the eyes appear to follow the user in real-time.
+<img src="images/1.png" alt="Screenshot">
 
-This project blends **computer vision**, **facial feature detection**, and **servo motor control** to deliver an engaging interactive experience.
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
+
 
 ---
 
 
 
 ## 💡 Project Overview
+The **Interactive Eye Tracker** is a model that simulates **human eye movement**.  
+The eyes move in response to the **visitor’s face direction**, creating a realistic effect that makes the eyes appear to follow the user in real-time.
+
+This project blends **computer vision**, **facial feature detection**, and **servo motor control** to deliver an engaging interactive experience.
+
+
 - Tracks the visitor's face and gaze direction using **computer vision algorithms**.  
 - Converts the detected movement into **horizontal and vertical commands** for the eye model.  
 - Provides a **realistic simulation of human eye movement**, enhancing interactive and educational displays.
